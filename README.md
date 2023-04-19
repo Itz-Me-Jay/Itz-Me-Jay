@@ -15,7 +15,7 @@ I have a strong focus on delivery and customer satisfaction, and I am always loo
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working as Devops Engineer <br/>
+- 🔭 I’m currently working as DevOps Engineer <br/>
 - 🌱 I’m currently preparing for AWS certifications<br/>
 - 📫 How to reach me: Email: v.srijayasurya@gmail.com<br/>
 - ⚡ Hobbies: Reading articles,Travelling,Cricket ,Badminton
