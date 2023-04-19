@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
 ## **About:**
-A passionate and result-driven DevOps Engineer with 2+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Kubernetes, Docker, Terraform, Ansible, Linux, AWS, My interests are DevOps, GitOps, and Cloud-native technologies.
+A passionate and result-driven DevOps Engineer with 3 years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Kubernetes, Docker, Terraform, Ansible, Linux, AWS, My interests are DevOps, GitOps, and Cloud-native technologies.
 
 I have a strong focus on delivery and customer satisfaction, and I am always looking for ways to improve the efficiency of the systems I work on.
 
