@@ -1,17 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Valluri Sri Jayasurya</h1>
-
 ![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
-<h1 align="center">Hi there, I'm Jayasurya</h1>
+<h1 align="center">Hi 👋 there, I'm Valluri Sri Jayasurya </h1>
 <h3 align="center">AWS Community Builder | DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Pulumi | Technical Blogger | Ex-Cognizant | </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
 
 
-
-
-
-
-![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz_Me_Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Valluri Sri Jayasurya" /> </p>
 
@@ -33,9 +26,7 @@ I have a strong focus on delivery and customer satisfaction, and I am always loo
 - ⚡ Hobbies: Reading articles,Travelling,Cricket ,Badminton
 
 ## ⚡ Domains
-- DevOps
-- Cloud
-- Development
+- DevOps & Cloud Development
 
 ## ⚡ Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
