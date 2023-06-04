@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Valluri Sri Jayasurya</h1>
 <h3 align="center">DevOps Engineer</h3>
 
+![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz_Me_Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Valluri Sri Jayasurya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
