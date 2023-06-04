@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Valluri Sri Jayasurya</h1>
-<h3 align="center">DevOps Engineer</h3>
 
 ![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
 <h1 align="center">Hi there, I'm Jayasurya</h1>
@@ -19,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
 ## **About:**
-A passionate and result-driven DevOps Engineer with 3 years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Jenkins,Kubernetes, Docker, Terraform, Ansible, Linux, AWS, 
+A passionate and result-driven DevOps Engineer with 3.1+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Jenkins,Kubernetes, Docker, Terraform, Ansible, Linux, AWS, 
 My interests are DevOps and Cloud-native technologies.
 I have a strong focus on delivery and customer satisfaction, and I am always looking for ways to improve the efficiency of the systems I work on.
 
@@ -27,7 +26,8 @@ I have a strong focus on delivery and customer satisfaction, and I am always loo
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working as DevOps Engineer <br/>
+- 🔭 Looking for an Opportunity to work at New environment.
+- 🔭 I’m currently working as DevOps Engineer at Cognizant <br/>
 - 🌱 I’m currently preparing for AWS certifications<br/>
 - 📫 How to reach me: Email: v.srijayasurya@gmail.com<br/>
 - ⚡ Hobbies: Reading articles,Travelling,Cricket ,Badminton
@@ -67,10 +67,7 @@ I have a strong focus on delivery and customer satisfaction, and I am always loo
 [![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Itz__Me__Jay)
 
 
-![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
-<h1 align="center">Hi there, I'm Jayasurya</h1>
-<h3 align="center">AWS Community Builder | DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Pulumi | Technical Blogger | Ex-Cognizant | </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
