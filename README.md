@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 there, I'm Valluri Sri Jayasurya </h1>
 <h3 align="center"> I am DevOps Engineer, Currently Looking for Opportunity | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Ex-Cognizant | </h3>
-<img align="Center" alt="Coding" width="800" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg" >
+<img align="Center" alt="Coding" width="1200" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg" >
 
 
 
