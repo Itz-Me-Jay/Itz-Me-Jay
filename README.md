@@ -59,21 +59,14 @@ I have a strong focus on delivery and I am always looking for ways to improve th
 
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
-- 🔭 I’m currently **learning Python **
+- 🔭 I’m currently **learning Python**
 - 🔭 I’m currently **learning AWS Solution Architecture Certification**
 - 📝 I recently Started my blog on **Various DevOps Concepts**
-
 - 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Terraform, Ansible.**
-
-- ⚡ Fun fact **"Oh damn, this is just what I always wanted to know. Thank you for enlightening me."**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 27 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-27-jenkins-declarative-pipeline-d9fb9c83f6fc?source=rss-a8245d2e0240------2)
-- [Steps to install Docker on Ubuntu](https://medium.com/@rajani103/steps-to-install-docker-on-ubuntu-bf6080543096?source=rss-a8245d2e0240------2)
-- [Day 26 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-26-jenkins-declarative-pipeline-6209ff470160?source=rss-a8245d2e0240------2)
-- [Steps to install jenkins on Ubuntu](https://medium.com/@rajani103/steps-to-install-jenkins-on-ubuntu-987b6042344a?source=rss-a8245d2e0240------2)
-- [Day 24,25 : Complete Jenkins CI/CD Project](https://medium.com/@rajani103/day-24-25-complete-jenkins-ci-cd-project-14aa3d8eb7e6?source=rss-a8245d2e0240------2)
+- updating....
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
