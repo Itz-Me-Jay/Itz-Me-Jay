@@ -38,17 +38,8 @@ I have a strong focus on delivery and I am always looking for ways to improve th
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## **Follow me on:**
 [![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Itz__Me__Jay)
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
