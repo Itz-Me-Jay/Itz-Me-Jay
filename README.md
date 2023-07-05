@@ -3,15 +3,12 @@
 <img align="Center" alt="Coding" width="1200" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg" >
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz_Me_Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Valluri Sri Jayasurya" /> </p>
-
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
 ## **About:**
-A passionate and result-driven DevOps Engineer with 3.1+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Jenkins, Kubernetes, Docker, Terraform, Ansible, Linux, AWS Services.
+Total 5 Years of IT Experience and having 3.1+ years of hands-on experience in DevOps Engineer with constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Jenkins, Kubernetes, Docker, Terraform, Ansible, Linux, AWS Services.
 My interests are DevOps and Cloud-native technologies.
-I have a strong focus on delivery and customer satisfaction, and I am always looking for ways to improve the efficiency of the systems I work on.
+I have a strong focus on delivery and I am always looking for ways to improve the efficiency of the systems I work on.
 
 - 📫 How to reach me **v.srijayasurya@gmail.com**
 
@@ -63,6 +60,7 @@ I have a strong focus on delivery and customer satisfaction, and I am always loo
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
 - 🔭 I’m currently **learning Python **
+- 🔭 I’m currently **learning AWS Solution Architecture Certification**
 - 📝 I recently Started my blog on **Various DevOps Concepts**
 
 - 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Terraform, Ansible.**
