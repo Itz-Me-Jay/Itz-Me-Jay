@@ -1,31 +1,30 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz-Me-Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Itz-Me-Jay" /> </p>
 
-<h1 align="center">Hi , I'm Rushikesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Jayasurya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  -->
 
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Jayasurya+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
-
-
 
 
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rushikesh+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Rushikesh Mashidkar</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+    Hey, My name is <em>Valluri Sri Jayasurya </em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
   </samp>
   <br/>
-</p> | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Ex-Cognizant | </h3>
+</p>
 <img align="Center" alt="Coding" width="1200" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg" >
 
 
 <p align="left"> <a href="https://twitter.com/Itz__Me__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/I__ME__JAY?logo=twitter&style=for-the-badge" alt="Itz__Me__Jay" /></a> </p>
 
 ## **About:**
-Total 5 Years of IT Experience and having 3.1+ years of hands-on experience in DevOps Engineer with constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Jenkins, Kubernetes, Docker, Terraform, Ansible, Linux, AWS Services.
+Total 5 Years of IT Experience and having 3.1+ years of hands-on experience in DevOps Engineer with constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Docker | Linux | Jenkins | Git | Terraform | Ansible | Kubernetes | Ex-Cognizant | AWS Services.
 My interests are DevOps and Cloud-native technologies.
 I have a strong focus on delivery and I am always looking for ways to improve the efficiency of the systems I work on.
+
 
 - 📫 How to reach me **v.srijayasurya@gmail.com**
 
