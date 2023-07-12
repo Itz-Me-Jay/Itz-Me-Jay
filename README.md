@@ -51,11 +51,9 @@ I have a strong focus on delivery and I am always looking for ways to improve th
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-</a>
-    <a href="https://pages.github.com/?(null)" target="_blank" >
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
-  </a>
- </a>
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
 
 ## **Follow me on:**
 [![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Itz__Me__Jay)
