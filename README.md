@@ -1,5 +1,5 @@
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itz-Me-Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Itz-Me-Jay" /> </p>
 
 <h1 align="center">Hi , I'm Rushikesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  -->
@@ -8,8 +8,15 @@
 
 
 
-<h1 align="center">Hi 👋 there, I'm Valluri Sri Jayasurya </h1>
-<h3 align="center"> I am DevOps Engineer, Currently Looking for Opportunity | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Ex-Cognizant | </h3>
+
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rushikesh+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+ 
+<p align="center" >
+  <samp>
+    Hey, My name is <em>Rushikesh Mashidkar</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+  </samp>
+  <br/>
+</p> | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Ex-Cognizant | </h3>
 <img align="Center" alt="Coding" width="1200" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg" >
 
 
